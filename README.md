@@ -1,4 +1,4 @@
-# Tool Usage Examples
+# Claude Function Calling Examples
 
 Simple example Colab of tool usage, from my live coding streams.
 
